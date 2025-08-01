@@ -7,12 +7,12 @@ The **"Dicoding Clustering & Classification - Ship Performance"** project is par
 ## 📂 Project Structure
 ```
 ├── data/
-│   ├── Dataset_clustering.csv                # Dataset untuk proyek clustering
-│   └── Dataset_inisiasi.csv                  # Dataset untuk proyek klasifikasi
+│   ├── Dataset_clustering.csv                
+│   └── Dataset_inisiasi.csv                  
 ├── programs/
-│   ├── [Clustering]_Submission_Akhir_BMLP_NELSON_LAU.ipynb   # Notebook untuk clustering
-│   └── [Klasifikasi]_Submission_Akhir_BMLP_NELSON_LAU.ipynb  # Notebook untuk klasifikasi
-└── README.md                                 # Deskripsi project
+│   ├── [Clustering]_Submission_Akhir_BMLP_NELSON_LAU.ipynb   
+│   └── [Klasifikasi]_Submission_Akhir_BMLP_NELSON_LAU.ipynb 
+└── README.md                                 
 ```
 
 ---
